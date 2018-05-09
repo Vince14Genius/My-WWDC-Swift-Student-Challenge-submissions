@@ -9,6 +9,10 @@
     <td><strong>Type</strong></td>
     <td>SpriteKit Game</td>
   </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>Accepted</td>
+  </tr>
 </table>
 
 ## Technologies Used
