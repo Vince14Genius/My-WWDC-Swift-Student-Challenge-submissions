@@ -28,4 +28,5 @@ See "instructions.png"
 
 ## Notes
 - Crashes if multiple triangles are created in a certain way
+- I included some of my other past projects in the package submitted. See "extra fun/".
 
