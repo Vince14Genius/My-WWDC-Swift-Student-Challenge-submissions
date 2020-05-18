@@ -17,7 +17,7 @@ Archives in this repository will be the original submissions ONLY. Future edits 
 
 | Year | Status | Project Name & Link | Brief Description |
 |----|----|----|----|
-| 2020 | Submitted | [Wotagei x Music Game](https://github.com/Vince14Genius/WWDC20-Wotagei-x-Music-Game) |
+| 2020 | Submitted | [Wotagei x Music Game](https://github.com/Vince14Genius/WWDC20-Wotagei-x-Music-Game) | A Wotagei glowstick simulator with music-game-like functionalities (no actual music) |
 | 2019 | Rejected | [Finder Zen AR](https://github.com/Vince14Genius/WWDC19-Finder-Zen-AR) | The extended ARKit+SceneKit remastered version of [Finder Zen](https://github.com/Vince14Genius/Finder-Zen) |
 | 2018 | Rejected  | Solids | 3D modeling tool powered by AR |
 | 2017 | Accepted  | Dynamic Dungeon | Unique maze survival game that scrolls automatically |
