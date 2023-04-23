@@ -1,6 +1,6 @@
-# Past WWDC Scholarship Submissions
+# Past WWDC Swift Student Challenge Submissions
 
-This repository contains my past WWDC Scholarship submissions. 
+This repository contains my past WWDC Swift Student Challenge / WWDC Scholarship submissions. 
 
 ## Purpose
 
